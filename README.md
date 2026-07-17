@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0031-next-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
