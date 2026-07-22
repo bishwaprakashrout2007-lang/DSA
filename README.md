@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0036-valid-sudoku) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0036-valid-sudoku) |
 ## Linked List
 |  |
 | ------- |
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
