@@ -41,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0036-valid-sudoku) |
+## String
+|  |
+| ------- |
+| [0038-count-and-say](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0038-count-and-say) |
 <!---LeetCode Topics End-->
