@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0039-combination-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
