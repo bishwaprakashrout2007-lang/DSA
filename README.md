@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0049-group-anagrams) |
 ## Linked List
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -78,4 +81,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
