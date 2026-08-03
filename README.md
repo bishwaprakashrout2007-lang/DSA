@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0050-powx-n) |
 ## Simulation
 |  |
 | ------- |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0049-group-anagrams) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
