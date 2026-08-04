@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0050-powx-n) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
