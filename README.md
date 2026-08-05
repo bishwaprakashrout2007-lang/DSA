@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0049-group-anagrams) |
@@ -92,5 +93,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0053-maximum-subarray) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
