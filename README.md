@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0055-jump-game) |
 ## Stack
 |  |
 | ------- |
@@ -123,4 +125,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
