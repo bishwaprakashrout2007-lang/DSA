@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0062-unique-paths) |
 ## Simulation
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0062-unique-paths) |
 ## Stack
 |  |
 | ------- |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0056-merge-intervals) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/bishwaprakashrout2007-lang/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
